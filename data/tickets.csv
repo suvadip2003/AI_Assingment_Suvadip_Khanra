@@ -1,0 +1,226 @@
+ticket_id,ticket_description,category,priority,status
+T010,The system says my password is incorrect,Login Issue,High,In Progress
+T185,The application is extremely slow today,Performance,Medium,In Progress
+T121,Please provide the customer report,Report,Medium,In Progress
+T208,The system is responding slowly,Performance,Medium,Closed
+T149,I need to change my registered mobile number,Account Update,Medium,Open
+T215,Pages are loading slowly,Performance,Medium,In Progress
+T183,The application response is very slow,Performance,High,Closed
+T087,I cannot save my information because of an error,Application Error,Medium,Closed
+T179,Please change my account email,Account Update,Medium,In Progress
+T176,Please update my account information,Account Update,Medium,Closed
+T069,I cannot save my information because of an error,Application Error,Low,Closed
+T016,Please help me recover my login,Login Issue,Medium,Open
+T201,The application is extremely slow today,Performance,Low,In Progress
+T026,My account login is not working,Login Issue,Low,Closed
+T031,I cannot access my account,Login Issue,Medium,Closed
+T046,I am getting an error message,Application Error,High,Open
+T061,The system displays an unexpected error,Application Error,Medium,Open
+T177,Please update my email address,Account Update,High,In Progress
+T102,Generate the financial report,Report,High,Closed
+T166,I need to change my registered address,Account Update,Low,Closed
+T080,An error appears whenever I try to update data,Application Error,Low,In Progress
+T019,Login page is rejecting my password,Login Issue,High,Closed
+T168,Please update my account information,Account Update,Medium,In Progress
+T153,Please update my phone number,Account Update,Low,Open
+T097,How can I download the sales report,Report,Low,In Progress
+T083,The application is showing an internal error,Application Error,Medium,Open
+T194,Pages are loading slowly,Performance,Low,Open
+T173,I need to change my registered mobile number,Account Update,High,Closed
+T221,The dashboard takes several minutes to open,Performance,Medium,Open
+T105,Please provide the customer report,Report,Low,Open
+T119,I need the weekly performance report,Report,Low,In Progress
+T076,The application stopped working,Application Error,High,Open
+T017,The system says my password is incorrect,Login Issue,High,Open
+T199,The website is very slow,Performance,Medium,In Progress
+T202,Pages are loading slowly,Performance,Low,Closed
+T118,I need the weekly performance report,Report,Medium,Open
+T196,The dashboard takes several minutes to open,Performance,High,Open
+T115,I need a report of all completed orders,Report,Low,Closed
+T112,I need a report of all completed orders,Report,Low,Closed
+T145,I want to change my account details,Account Update,High,Open
+T142,I want to update my personal details,Account Update,High,Closed
+T214,The system takes too long to load,Performance,High,In Progress
+T144,Please update my email address,Account Update,Low,Closed
+T223,Application performance is very bad today,Performance,High,Open
+T143,Please change my account email,Account Update,High,Open
+T164,Please change my account email,Account Update,High,Closed
+T068,There is an error when opening the application,Application Error,High,Closed
+T056,An error appears whenever I try to update data,Application Error,Low,Closed
+T125,Please send me the transaction report,Report,Medium,Open
+T128,I want to download the monthly report,Report,High,Closed
+T210,The dashboard takes several minutes to open,Performance,Medium,In Progress
+T085,Application crashes when I upload a file,Application Error,Low,Closed
+T094,How can I download the sales report,Report,Low,In Progress
+T098,I want to download the monthly report,Report,Medium,Open
+T116,Please generate the annual sales report,Report,Medium,Closed
+T039,I forgot my password,Login Issue,Medium,Open
+T025,My account login is not working,Login Issue,Low,In Progress
+T120,Generate the financial report,Report,Low,Closed
+T184,The system performance has become very poor,Performance,Medium,Closed
+T195,The application is extremely slow today,Performance,Low,Open
+T011,I cannot login to my account,Login Issue,Low,Closed
+T070,The application stopped working,Application Error,High,In Progress
+T030,I am unable to sign in,Login Issue,Low,In Progress
+T020,My account login is not working,Login Issue,High,Open
+T109,I want to download the monthly report,Report,High,Closed
+T067,The application crashes after submitting the form,Application Error,High,Open
+T074,The application stopped working,Application Error,Low,In Progress
+T006,My password reset is not working,Login Issue,Low,Open
+T057,There is an error when opening the application,Application Error,High,Closed
+T113,How can I download the sales report,Report,Medium,Open
+T138,I need to change my registered address,Account Update,Low,Open
+T136,How can I update my profile information,Account Update,Low,Closed
+T066,I am getting an error message,Application Error,Low,Closed
+T141,I need to change my registered address,Account Update,Low,Closed
+T191,The system performance has become very poor,Performance,High,Closed
+T224,Application performance is very bad today,Performance,Medium,In Progress
+T032,I am locked out of my account,Login Issue,Low,Closed
+T013,I forgot my password,Login Issue,Low,In Progress
+T036,Please help me recover my login,Login Issue,High,In Progress
+T029,I forgot my password,Login Issue,High,Closed
+T043,I cannot access my account,Login Issue,Medium,Open
+T126,I need the weekly performance report,Report,Low,Open
+T114,I need a report of all completed orders,Report,Low,Closed
+T154,Please change my account email,Account Update,Low,Open
+T052,There is an error when opening the application,Application Error,High,In Progress
+T182,The website is very slow,Performance,High,Closed
+T181,Pages are loading slowly,Performance,Medium,Closed
+T077,The application shows an error while saving,Application Error,Low,Closed
+T042,Please help me recover my login,Login Issue,Medium,Closed
+T096,Please send me the transaction report,Report,Low,Open
+T139,Please change my account email,Account Update,Medium,Open
+T079,The application shows an error while saving,Application Error,Medium,Open
+T157,Please update my email address,Account Update,Medium,Open
+T027,Login page is rejecting my password,Login Issue,High,Closed
+T206,The system is responding slowly,Performance,High,Closed
+T190,The application response is very slow,Performance,High,Open
+T127,I need the weekly performance report,Report,Medium,Open
+T001,My password reset is not working,Login Issue,Low,Closed
+T003,I forgot my password,Login Issue,High,Open
+T078,The application shows an error while saving,Application Error,Low,Open
+T047,I cannot save my information because of an error,Application Error,High,Open
+T101,Please provide the customer report,Report,Medium,In Progress
+T110,I need a report for last month,Report,Low,Closed
+T137,I need to change my registered address,Account Update,High,In Progress
+T163,How can I update my profile information,Account Update,High,Closed
+T091,How can I download the sales report,Report,Low,Closed
+T086,I cannot save my information because of an error,Application Error,Medium,In Progress
+T160,Please update my phone number,Account Update,Low,Open
+T151,How can I update my profile information,Account Update,High,In Progress
+T099,Generate the financial report,Report,Low,Open
+T037,I am unable to sign in,Login Issue,High,In Progress
+T133,Please generate the annual sales report,Report,Low,Closed
+T062,Application crashes when I upload a file,Application Error,Medium,In Progress
+T023,I am unable to sign in,Login Issue,Low,In Progress
+T148,I need to change my registered mobile number,Account Update,Medium,In Progress
+T159,I want to update my personal details,Account Update,Medium,In Progress
+T034,I cannot login to my account,Login Issue,Medium,In Progress
+T012,I cannot access my account,Login Issue,Medium,In Progress
+T220,The website is very slow,Performance,Medium,Closed
+T178,My contact information needs to be changed,Account Update,Medium,Closed
+T007,I am locked out of my account,Login Issue,High,Open
+T028,My password reset is not working,Login Issue,High,Closed
+T140,I need to change my registered mobile number,Account Update,Medium,Open
+T216,The application is taking too long to respond,Performance,High,Open
+T217,The application response is very slow,Performance,Low,Open
+T155,How can I update my profile information,Account Update,Medium,Closed
+T005,I cannot access my account,Login Issue,Low,Open
+T123,I need a report of all completed orders,Report,High,Open
+T033,My account login is not working,Login Issue,Low,Open
+T162,I need to change my registered address,Account Update,Low,In Progress
+T063,The application stopped working,Application Error,Low,Open
+T129,Please provide the customer report,Report,High,Closed
+T213,Pages are loading slowly,Performance,Medium,In Progress
+T171,Please update my account information,Account Update,Low,In Progress
+T071,I cannot save my information because of an error,Application Error,High,Closed
+T174,Please update my phone number,Account Update,Medium,In Progress
+T065,The application crashes after submitting the form,Application Error,Low,Closed
+T045,My password reset is not working,Login Issue,Low,Open
+T147,I want to change my account details,Account Update,Medium,Open
+T041,I am locked out of my account,Login Issue,Medium,Closed
+T124,Please generate the annual sales report,Report,High,Open
+T024,Login page is rejecting my password,Login Issue,Medium,Closed
+T169,How can I update my profile information,Account Update,Medium,Closed
+T165,How can I update my profile information,Account Update,Low,Open
+T082,I am getting an error message,Application Error,High,Closed
+T040,I am unable to sign in,Login Issue,High,Closed
+T219,Pages are loading slowly,Performance,Low,In Progress
+T048,I cannot save my information because of an error,Application Error,Medium,Closed
+T095,Please send me the transaction report,Report,Low,Open
+T172,I need to change my registered mobile number,Account Update,High,In Progress
+T044,I forgot my password,Login Issue,High,In Progress
+T146,How can I update my profile information,Account Update,High,Closed
+T156,Please update my phone number,Account Update,Medium,Open
+T004,I am locked out of my account,Login Issue,Low,Closed
+T106,I need a report of all completed orders,Report,High,Closed
+T054,I am getting an error message,Application Error,Medium,Open
+T134,Please send me the transaction report,Report,Low,In Progress
+T204,The system is responding slowly,Performance,Low,Open
+T187,Application performance is very bad today,Performance,High,In Progress
+T209,The dashboard takes several minutes to open,Performance,Low,Closed
+T050,An error appears whenever I try to update data,Application Error,Low,Closed
+T081,The application crashes after submitting the form,Application Error,Low,Closed
+T035,Login page is rejecting my password,Login Issue,Low,Open
+T008,I am locked out of my account,Login Issue,Low,Closed
+T111,Please generate the annual sales report,Report,Low,Open
+T092,I want to download the monthly report,Report,Low,In Progress
+T084,The application crashes after submitting the form,Application Error,Medium,Open
+T200,Pages are loading slowly,Performance,Low,Closed
+T205,The dashboard takes several minutes to open,Performance,Low,In Progress
+T090,The system displays an unexpected error,Application Error,Low,Open
+T009,I am locked out of my account,Login Issue,Medium,Open
+T014,My password reset is not working,Login Issue,Low,In Progress
+T060,An error appears whenever I try to update data,Application Error,Low,Closed
+T193,Pages are loading slowly,Performance,High,In Progress
+T132,Please generate the annual sales report,Report,Low,In Progress
+T018,I cannot access my account,Login Issue,Low,Closed
+T167,I need to change my registered address,Account Update,Low,Open
+T073,The application crashes after submitting the form,Application Error,Low,Open
+T197,The dashboard takes several minutes to open,Performance,Medium,Closed
+T135,Please provide the customer report,Report,High,Open
+T186,Pages are loading slowly,Performance,Medium,Closed
+T207,The application is taking too long to respond,Performance,Medium,Closed
+T064,The application is showing an internal error,Application Error,Low,Open
+T055,There is an error when opening the application,Application Error,High,Open
+T108,I need the monthly sales report,Report,Low,Closed
+T051,Application crashes when I upload a file,Application Error,High,Closed
+T175,Please update my email address,Account Update,High,In Progress
+T222,Pages are loading slowly,Performance,Medium,In Progress
+T198,Application performance is very bad today,Performance,Low,Closed
+T170,My contact information needs to be changed,Account Update,Low,In Progress
+T059,The system displays an unexpected error,Application Error,Low,Closed
+T049,The application crashes after submitting the form,Application Error,High,In Progress
+T089,Application crashes when I upload a file,Application Error,Low,In Progress
+T022,I am unable to sign in,Login Issue,Medium,Open
+T058,The application is showing an internal error,Application Error,Low,Open
+T161,Please update my phone number,Account Update,Medium,In Progress
+T218,The website is very slow,Performance,High,Open
+T188,The dashboard takes several minutes to open,Performance,Medium,In Progress
+T192,Application performance is very bad today,Performance,Medium,Open
+T130,Please send me the transaction report,Report,Low,Closed
+T038,I cannot access my account,Login Issue,High,In Progress
+T158,I want to update my personal details,Account Update,Low,Open
+T212,The system is responding slowly,Performance,Medium,Closed
+T002,Login page is rejecting my password,Login Issue,Low,Open
+T053,Application crashes when I upload a file,Application Error,Medium,In Progress
+T150,Please update my phone number,Account Update,High,Open
+T131,Please send me the transaction report,Report,Medium,Closed
+T152,Please update my account information,Account Update,High,Open
+T104,I want to download the monthly report,Report,Low,Open
+T100,Generate the financial report,Report,Low,In Progress
+T117,I need a report of all completed orders,Report,High,Closed
+T088,The application shows an error while saving,Application Error,High,Closed
+T203,The system is responding slowly,Performance,Medium,Open
+T075,The application shows an error while saving,Application Error,High,Closed
+T211,Pages are loading slowly,Performance,High,In Progress
+T122,Please generate the annual sales report,Report,Low,In Progress
+T225,The application is extremely slow today,Performance,Medium,In Progress
+T021,My password reset is not working,Login Issue,Low,Closed
+T189,Pages are loading slowly,Performance,High,In Progress
+T072,The system displays an unexpected error,Application Error,Medium,Closed
+T107,I need the monthly sales report,Report,High,In Progress
+T015,My password reset is not working,Login Issue,Medium,In Progress
+T093,I need a report for last month,Report,Medium,In Progress
+T180,I need to change my registered address,Account Update,High,Open
+T103,Please send me the transaction report,Report,High,Closed
