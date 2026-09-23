@@ -187,29 +187,9 @@ Confidence: 85.12%
 
 ![Ticket Prediction](screenshots/prediction.png)
 
-## Limitations
-
-- The dataset is small.
-- Only five categories are supported.
-- The data was custom-created for the assignment.
-- Ambiguous ticket text may be harder to classify.
-- The model may show lower confidence for shorter or less specific descriptions.
-
-## Future Improvements
-
-- Use a larger real-world support dataset
-- Add more ticket categories
-- Improve preprocessing and feature engineering
-- Compare multiple machine learning models
-- Add cross-validation and hyperparameter tuning
-- Build a REST API or production dashboard
-- Retrain the model with new incoming support tickets
 
 ## Author
 
 Suvadip Khanra
 
-## License
-
-This project is intended for educational and assignment use.
 
