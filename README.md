@@ -180,7 +180,7 @@ Output:
 
 ```text
 Predicted Category: Login Issue
-Confidence: 77.52%
+Confidence: 85.12%
 ```
 
 ## Screenshot
